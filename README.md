@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying a double degree in Computer Science from the University of Waterloo and Business Administration from Wilfred Laurier Universitybr>👯 I’m looking to collaborate on any projects!<br>🌱 I’m currently learning Next.js and Typescript<br>💬 Ask me about my co-op goals and aspirations<br>⚡ Fun fact: I'm the CEO of a charity in Toronto called Baobab
+🔭 I’m currently studying a double degree in Computer Science from the University of Waterloo and Business Administration from Wilfred Laurier University<br>👯 I’m looking to collaborate on any projects!<br>🌱 I’m currently learning Next.js and Typescript<br>💬 Ask me about my co-op goals and aspirations<br>⚡ Fun fact: I'm the CEO of a charity in Toronto called Baobab
 
 
 ## 🌐 Socials:
