@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Grad Map<br>👯 I’m looking to collaborate on any projects you're interested in!!<br>🌱 I’m currently learning C and anything I can learn<br>💬 Ask me about the UFC.<br>⚡ Fun fact sometimes I think I'm funny.
+🔭 I’m currently at Cache<br>👯 I’m looking to collaborate on any projects you're interested in!!<br>🌱 I’m currently learning C and anything I can learn<br>💬 Ask me about the UFC.<br>⚡ Fun fact sometimes I think I'm funny.
 
 ![volk](https://github.com/user-attachments/assets/b86c42ea-ef34-4530-b853-0bf88b8b0da9)
 
