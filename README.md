@@ -9,6 +9,7 @@ Passionate software engineer with expertise in full-stack web development. I stu
 - Beginner: `Go`
 
 🔭 **Featured Projects**
+- [Mimi](https://github.com/michaeljf07/mimi) - Local English <-> Japanese text and audio translations for MacOS. I built this without knowing Japanese so proceed with caution!
 - [Logstreamer](https://github.com/michaeljf07/logstreamer) - Consolidate all of your terminal, docker, and supabase logs into one terminal window using this CLI tool built in Go
 - [Sublet Center](https://github.com/michaeljf07/sublet-centre) - A modern website built for students at the University of Waterloo to find and list sublets
 - [Mock API](https://github.com/michaeljf07/Mock-API) - Dynamically generate a local Express server to GET, POST, etc. mock api data
